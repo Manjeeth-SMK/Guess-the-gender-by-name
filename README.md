@@ -22,13 +22,3 @@ This project predicts a person's gender based on their name using a machine lear
 
 ---
 
-## 📁 Project Structure
-
-guess-gender-api/
-├── app.py # Flask API
-├── model_trainer.py # Train and save ML model
-├── model.pkl # Trained ML model (generated)
-├── vectorizer.pkl # Trained vectorizer (generated)
-├── requirements.txt # Python dependencies
-├── .gitignore # Files to ignore in Git
-└── README.md # This file
